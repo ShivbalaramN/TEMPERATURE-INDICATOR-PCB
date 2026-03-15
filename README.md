@@ -60,9 +60,12 @@ KiCad – Schematic design and PCB layout
 
 **🎯 Applications**
 
-Temperature monitoring circuits
+ Temperature monitoring circuits
+
+ Educational electronics projects
+ 
+ Sensor interfacing practice
+ 
+ Basic alarm or indicator systems
 
 **AUTHOR**: SHIV BALARAM N ECE-DEPT ANNA UNIVERSITY
-Educational electronics projects
-Sensor interfacing practice
-Basic alarm or indicator systems
